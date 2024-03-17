@@ -1,11 +1,10 @@
 <script>
 import FlowerIcon from '@/components/icons/FlowerIcon.vue'
-import Buttons from '@/components/Buttons.vue'
+
 
 export default {
   components: {
     FlowerIcon,
-    Buttons
   }
 }
 </script>
