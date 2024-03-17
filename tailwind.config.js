@@ -20,8 +20,8 @@ export default {
         // => @media (min-width: 1280px) { ... }
       },
       backgroundImage: {
-        hero: "url('/src/assets/bg-patern.jpg')",
-        namePage: "url('/src/assets/bg-namePage.webp')"
+        hero: "url('./src/assets/bg-patern.jpg')",
+        name: "url('./src/assets/bg-namePage1.jpg')"
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
