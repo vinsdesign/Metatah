@@ -1,7 +1,7 @@
 <template>
   <svg
     width="200"
-    height="200 "
+    height="200"
     viewBox="0 0 601 602"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -24,24 +24,3 @@
     </defs>
   </svg>
 </template>
-
-<script>
-export default {
-  props: {
-    Style: {
-      Width: {
-        type: String,
-        default: null
-      },
-      Height: {
-        type: String,
-        default: null
-      },
-      Color: {
-        type: String,
-        default: null
-      }
-    }
-  }
-}
-</script>
