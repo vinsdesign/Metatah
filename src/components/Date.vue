@@ -27,7 +27,9 @@ export default {
       Minggu
     </p>
   </section>
-  <section class="flex justify-center items-center xxsm:gap-5 lg:gap-8 xxsm:flex-col lg:flex-row">
+  <section
+    class="flex justify-center items-center xxsm:gap-5 lg:gap-8 xxsm:flex-col lg:flex-row mb-10"
+  >
     <div
       class="rounded-lg py-10 px-5 border-solid border-2 border-primary flex justify-center items-center flex-col text-center p-4 xxsm:w-[250px] xsm:w-[290px] sm:w-[380px] md:w-[500px] lg:w-[300px] lg:h-[300px] xl:w-[350px] transition ease-in-out delay-150 bg-white hover:-translate-y-1 hover:scale-110 duration-300 cursor-pointer"
     >
@@ -35,7 +37,7 @@ export default {
       <p
         class="text-primary font-poppins xxsm:text-xs xsm:text-sm sm:text-base md:text-lg lg:text-lg xl:text-xl 2xl:text-2xl"
       >
-        Pukul : 08.00 WITA - Selesai
+        Pukul : 14.00 WITA - Selesai
       </p>
     </div>
     <div

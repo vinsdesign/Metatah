@@ -28,7 +28,8 @@ export default {
         ImperialScript: ['"Imperial Script", "cursive"']
       },
       colors: {
-        primary: '#99762C'
+        primary: '#99762C',
+        secondary: '#F7F6F4'
       }
     }
   },
