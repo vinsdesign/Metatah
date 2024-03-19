@@ -9,7 +9,9 @@ export default {
 </script>
 
 <template>
-  <header class="bg-hero w-full bg-cover xxsm:h-[700px] lg:h-[840px] flex justify-center flex-col">
+  <header
+    class="bg-[url('./assets/bg-patern.jpg')] w-full bg-cover xxsm:h-[700px] lg:h-[840px] flex justify-center flex-col"
+  >
     <section class="flex flex-col justify-center items-center">
       <h1
         class="font-ImperialScript text-8xl text-primary xxsm:text-[70px] xsm:text-[80px] sm:text-[90px] md:text-[100px] lg:text-[100px]"

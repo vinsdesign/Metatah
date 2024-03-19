@@ -14,7 +14,9 @@ export default {
 }
 </script>
 <template>
-  <section class="bg-name bg-cover bg-no-repeat w-full h-full flex justify-center flex-col">
+  <section
+    class="bg-[url('./assets/bg-namePage1.jpg')] bg-cover bg-no-repeat w-full h-full flex justify-center flex-col"
+  >
     <div class="flex justify-center flex-col items-center">
       <DecorationUp
         class="xxsm:w-[140px] h-fit xsm:w-[150px] sm:w-[290px] md:w-[310px] lg:w-[420px] xl:w-[620px] mt-1"
