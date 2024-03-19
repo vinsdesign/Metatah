@@ -4,6 +4,7 @@ import OmSwastiastu from '@/components/OmSwastiastu.vue'
 import NamePage from '@/components/NamePage.vue'
 import Date from '@/components/Date.vue'
 import CountDown from '@/components/CountDown.vue'
+import Maps from '@/components/Maps.vue'
 
 export default {
   components: {
@@ -11,7 +12,8 @@ export default {
     OmSwastiastu,
     NamePage,
     Date,
-    CountDown
+    CountDown,
+    Maps
   }
 }
 </script>
@@ -21,4 +23,5 @@ export default {
   <NamePage />
   <Date />
   <CountDown />
+  <Maps />
 </template>
