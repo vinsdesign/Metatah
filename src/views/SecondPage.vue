@@ -5,6 +5,7 @@ import NamePage from '@/components/NamePage.vue'
 import Date from '@/components/Date.vue'
 import CountDown from '@/components/CountDown.vue'
 import Maps from '@/components/Maps.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
   components: {
@@ -13,7 +14,8 @@ export default {
     NamePage,
     Date,
     CountDown,
-    Maps
+    Maps,
+    Footer
   }
 }
 </script>
@@ -24,4 +26,5 @@ export default {
   <Date />
   <CountDown />
   <Maps />
+  <Footer />
 </template>
