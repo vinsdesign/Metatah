@@ -26,7 +26,7 @@ export default {
         class="xxsm:w-[250px] xxsm:h-[300px] xsm:w-[250px] xsm:h-[280px] sm:w-[280px] sm:h-[300px] md:w-[300px] md:h-[300px] lg:w-[320px] lg:h-[320px]"
       />
       <h1
-        class="font-ImperialScript text-8xl text-primary xxsm:text-[70px] xsm:text-[80px] sm:text-[90px] md:text-[100px] lg:text-[100px]"
+        class="font-ImperialScript text-7xl text-primary xxsm:text-[70px] xsm:text-[80px] sm:text-[90px] md:text-[100px] lg:text-[100px]"
       >
         Metatah
       </h1>
