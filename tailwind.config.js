@@ -19,10 +19,6 @@ export default {
         '2xl': '1536px'
         // => @media (min-width: 1280px) { ... }
       },
-      backgroundImage: {
-        hero: "url('./assets/bg-patern.jpg')",
-        name: "url('./assets/bg-namePage1.jpg')"
-      },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
         ImperialScript: ['"Imperial Script", "cursive"']

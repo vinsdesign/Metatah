@@ -18,8 +18,6 @@ export default {
       >
         Undangan
       </h1>
-      <!-- image dec 1 -->
-      <!-- <Decoration1 :style="{ width: 'w-[300px]', height: 'w-[500px]' }" /> -->
       <FlowerIcon
         class="xxsm:w-[230px] xxsm:h-[250px] xsm:w-[250px] xsm:h-[280px] sm:w-[280px] sm:h-[300px] md:w-[300px] md:h-[300px] lg:w-[390px] lg:h-[390px]"
       />
